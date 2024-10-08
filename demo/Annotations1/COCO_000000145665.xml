@@ -1,0 +1,30 @@
+<annotation>
+	<folder>JPEGImages1</folder>
+	<filename>COCO_000000145665.jpg</filename>
+	<path>D:\dataset\2021-10-16_PersonHeadPose\Head_Attributes_v4\demo\JPEGImages1\COCO_000000145665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>429</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<truncated>0</truncated>
+		<gender>0</gender>
+		<blurriness>0</blurriness>
+		<frontal>0</frontal>
+		<yaw>-179</yaw>
+		<roll>-19</roll>
+		<pitch>-113</pitch>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>436</ymin>
+			<xmax>176</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

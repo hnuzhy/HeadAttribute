@@ -1,0 +1,30 @@
+<annotation>
+	<folder>JPEGImages1</folder>
+	<filename>OpenImage_0a50911d08250183.jpg</filename>
+	<path>D:\dataset\2021-10-16_PersonHeadPose\Head_Attributes_v5\demo\JPEGImages1\OpenImage_0a50911d08250183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<truncated>0</truncated>
+		<gender>0</gender>
+		<blurriness>0</blurriness>
+		<frontal>0</frontal>
+		<yaw>107</yaw>
+		<roll>-3</roll>
+		<pitch>-5</pitch>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>255</ymin>
+			<xmax>744</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,30 @@
+<annotation>
+	<folder>JPEGImages1</folder>
+	<filename>crowdhuman_284193_e000b031369a.jpg</filename>
+	<path>D:\dataset\2021-10-16_PersonHeadPose\Head_Attributes_v5\demo\JPEGImages1\crowdhuman_284193_e000b031369a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>674</width>
+		<height>446</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<truncated>0</truncated>
+		<gender>0</gender>
+		<blurriness>0</blurriness>
+		<frontal>0</frontal>
+		<yaw>-125</yaw>
+		<roll>3</roll>
+		<pitch>-19</pitch>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>90</ymin>
+			<xmax>105</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>
