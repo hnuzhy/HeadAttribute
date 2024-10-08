@@ -18,6 +18,11 @@ https://github.com/user-attachments/assets/4b413102-c61e-46f6-b027-ce595c14acee
 Labeling steps: `Open Dir` --> `Change Save Dir` --> `Next Image` --> Begin Annotating with Careful Adjusting --> `Save`
 
 ## Compiling Advice
+- Follow `labelImg_v6.spec` to create a new python env using conda (e.g., *py37_headpose*).
+- Also remember install many third dependencies listed in the file `labelImg_v6.spec`
+- You can develop your ideal version by modifying `.py` files under the foler `./libs`
+- Debug your modified version by running the file `run.bat` for callbacking `labelImg.py`
+- Install [pyinstaller](https://www.pyinstaller.org/) for packaging all source code and dependencies into one `.exe` file
 
 ## References
 Citation of labelImg: `Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg`
