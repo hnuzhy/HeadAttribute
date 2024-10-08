@@ -1,0 +1,14 @@
+# conda create -n py37_headpose python=3.7
+# conda remove -n py37_headpose --all
+# pyrcc5 -o libs/resources.py resources.qrc
+# change pyqt5 in auto-generated file libs/resources.py into pyqt4
+
+sip
+pyqt4  # could not install using pip, find it in https://www.lfd.uci.edu/~gohlke/pythonlibs/
+numpy
+lxml
+traitsui
+traits
+pyface
+mayavi
+vtk
