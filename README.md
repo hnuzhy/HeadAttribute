@@ -15,6 +15,7 @@ If you just want to use this annotation tool for labeling human head poses, thes
 
 https://github.com/user-attachments/assets/4b413102-c61e-46f6-b027-ce595c14acee
 
+Labeling steps: `Open Dir` --> `Change Save Dir` --> `Next Image` --> Begin Annotating with Careful Adjusting --> `Save`
 
 ## Compiling Advice
 
